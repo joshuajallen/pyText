@@ -1,0 +1,551 @@
+Firm	ID	Time	Text	User	RT	From_Firm	t	URL
+Monzo	1.184050443716051e+18	2019-10-15T09:16:39Z	Just got a joint monzo account with my Bf to save money for holidays 🥰	1556996611.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.184061169025327e+18	2019-10-15T09:59:16Z	@monzo That's great, thank you.	14742479.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840606084524485e+18	2019-10-15T09:57:02Z	"@xstex Hey Stephen 👋
+
+Absolutely! Your friend is more than welcome to use his Polish passport to sign up for an acc… https://t.co/76YRvvLVb3"	3224409977.0	-1.0	1	2019-10-15 09:00:00	
+Monzo	1.184060112241152e+18	2019-10-15T09:55:04Z	"""Setting up a brand new #ResearchOps function @monzo"" — join @kimlouiseporter as she discusses remaining #agile in… https://t.co/hgrvGYK90G"	34580169.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840592640605798e+18	2019-10-15T09:51:41Z	Something Monzo should really work on is the flow when closing a joint account. Closing mine seemed to log me out,… https://t.co/tL4x0iqOsr	60866860.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.184058605953323e+18	2019-10-15T09:49:05Z	I love how transparent @monzo are, really interesting read on how Monzo handles secrets and the tech that they use… https://t.co/KrPtABBKea	1.114136306051842e+18	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840580889172214e+18	2019-10-15T09:47:01Z	@mikestanley88 @fintechleague @TideBusiness @TransferWise @StarlingBank @joe_steele_ @monzo @MastercardUKbiz… https://t.co/6KRdNBt7K9	2326964449.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840579509917204e+18	2019-10-15T09:46:28Z	@monzo Friend wants to join Monzo but we're wondering if he can use his Polish passport as he does not have a UK on… https://t.co/is1eaY3eWj	14742479.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840572256497664e+18	2019-10-15T09:43:35Z	RT @dxmss_: Opened my Monzo account yesterday, card came today.  Talk about speedy	548104449.0	1.1840539672711864e+18	0	2019-10-15 09:00:00	
+Monzo	1.1840561403778007e+18	2019-10-15T09:39:17Z	@glenhavercroft @monzo Already knew this 😁	583054076.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840539672711864e+18	2019-10-15T09:30:39Z	Opened my Monzo account yesterday, card came today.  Talk about speedy	89234658.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840539158825452e+18	2019-10-15T09:30:26Z	Finally joined the @monzo crew before we depart for travels	26619407.0	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.1840537900198502e+18	2019-10-15T09:29:56Z	"@RDWimp @joelymack @AmenaKing @woollypigs It's not project fear IF SHE ACTUALLY CAN'T GET THE MEDICINE.
+
+Please Ple… https://t.co/My392tmhEG"	8.877159852470886e+17	-1.0	0	2019-10-15 09:00:00	
+Monzo	1.184051914041897e+18	2019-10-15T09:22:29Z	RT @CyrilCoste: Oops! Monzo urges 480,000 customers to change pins as banking details exposed to unauthorised staff... https://t.co/NufUjRS…	7.795133353939681e+17	1.1840110919506125e+18	0	2019-10-15 09:00:00	
+Monzo	1.1840709267296502e+18	2019-10-15T10:38:02Z	"@haidukdaniel Hi Daniel - We're afraid we only offer support in English so we can't understand your question 😩 
+
+Do… https://t.co/Bilugvv690"	3224409977.0	-1.0	1	2019-10-15 10:00:00	
+Monzo	1.1840702906466875e+18	2019-10-15T10:35:30Z	@DrCharlesLaing Unless your @monzo. Then the only way is up 😀	301558546.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840695628258918e+18	2019-10-15T10:32:37Z	"Been talking the last few weeks with people about Monzo v Starling. (I floated ""I prefer"" Starling so, you know, pe… https://t.co/q4fuA1zmZe"	3244618517.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840680994877358e+18	2019-10-15T10:26:48Z	@ellishudson @monzo You took too long	396181322.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840668267932918e+18	2019-10-15T10:21:45Z	@monzo cannot activate my new card and help function in app isn’t working. Could you please assist?	22737560.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.184066718924202e+18	2019-10-15T10:21:19Z	I don't want to be that guy who worships a bank but I do want to say it's a positive that the monzo app actually sa… https://t.co/ZwDkTAyIj9	95514779.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840638710757376e+18	2019-10-15T10:10:00Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	456223976.0	1.1839772064496271e+18	0	2019-10-15 10:00:00	
+Monzo	1.1840629463700972e+18	2019-10-15T10:06:19Z	How can he send me £6 on monzo to go and buy lunch 🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺	450631112.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840617019829494e+18	2019-10-15T10:01:23Z	@leemallon @monzo Ha - trying too hard!!, have you tried our new neighbours @StarlingBank - really interesting chat… https://t.co/Qk6LXrhp7E	19088949.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.184076257971069e+18	2019-10-15T10:59:13Z	@SallyBundockBBC @BBC_Worklife Then lastly quick discussion on @RBS wanting to buy @Monzo. With other challenger ba… https://t.co/KGCSY34Zoa	1.0633927993310986e+18	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1840757583372206e+18	2019-10-15T10:57:14Z	RT @dxmss_: Monzo are on job I can’t even lie	2950078877.0	1.1840582748758835e+18	0	2019-10-15 10:00:00	
+Monzo	1.184074978922324e+18	2019-10-15T10:54:08Z	RT @dxmss_: Monzo are on job I can’t even lie	361525569.0	1.1840582748758835e+18	0	2019-10-15 10:00:00	
+Monzo	1.1840741829230346e+18	2019-10-15T10:50:58Z	@fintechleague @mikestanley88 @TideBusiness @TransferWise @StarlingBank @monzo @MastercardUKbiz @FundingOptions… https://t.co/lsuZwm1uap	2968729427.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.184072323416109e+18	2019-10-15T10:43:35Z	RT @TechNation: Our prestigious mid-stage programme #Upscale is designed to help the UK’s most promising tech companies accelerate their gr…	2627853081.0	1.1840329041014047e+18	0	2019-10-15 10:00:00	
+Monzo	1.1840716631152968e+18	2019-10-15T10:40:58Z	@ellishudson @monzo Ah, then it's because Samsung nothing else	396181322.0	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.184071210746962e+18	2019-10-15T10:39:10Z	"Bank 🏦 01 04 66 34558276  
+Cashapp £missjennababy 
+Monzo - ask me 
+
+#findom"	1.0167172346626703e+18	-1.0	0	2019-10-15 10:00:00	
+Monzo	1.1841436383281723e+18	2019-10-15T15:26:58Z	@emilypaws Highly recommend @Monzo if you’re looking at other options 👌🏻	21354870.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184142654747136e+18	2019-10-15T15:23:03Z	@MissLyallXXX Revolut or Monzo accounts are the way to go.	3311875225.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841415130197975e+18	2019-10-15T15:18:31Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	2795860959.0	1.1841189313065042e+18	0	2019-10-15 15:00:00	
+Monzo	1.184140578499498e+18	2019-10-15T15:14:48Z	@monzo @trstnthms you should add an automatic tip calculator for spends in countries that normally have tips.	20077772.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841400132079944e+18	2019-10-15T15:12:34Z	RT @dxmss_: Monzo are on job I can’t even lie	4212901258.0	1.1840582748758835e+18	0	2019-10-15 15:00:00	
+Monzo	1.1841396009959793e+18	2019-10-15T15:10:55Z	RT @dxmss_: Monzo are on job I can’t even lie	337874462.0	1.1840582748758835e+18	0	2019-10-15 15:00:00	
+Monzo	1.184139342597501e+18	2019-10-15T15:09:54Z	"@RyGilliam These are LA suggestions, as I don't know SF as well
+
+Din Tai Fung - excellent soup dumpling place… https://t.co/4ufj2Y91sw"	1636372932.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841392414308884e+18	2019-10-15T15:09:30Z	Monzo stresses me out by telling me how much I’ve spent in one day	1.1144563364760658e+18	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841389323987763e+18	2019-10-15T15:08:16Z	Big thank to @simonvc for my new favourite quote “Everything breaks when you double” ... the ‘joys’ of exponential growth at @monzo	20973871.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184138328007942e+18	2019-10-15T15:05:52Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	1.0089931819990098e+18	1.1841189313065042e+18	0	2019-10-15 15:00:00	
+Monzo	1.1841379166809866e+18	2019-10-15T15:04:14Z	RT @dxmss_: Monzo are on job I can’t even lie	340189094.0	1.1840582748758835e+18	0	2019-10-15 15:00:00	
+Monzo	1.184137545506001e+18	2019-10-15T15:02:45Z	"RT @JamesRWP: Like the colour of @monzo cards? You'll likely enjoy the new ""Oh So Orange"" colour for the Pixel 4 https://t.co/t2dV88dtO0"	15560223.0	1.1841313031569654e+18	0	2019-10-15 15:00:00	
+Monzo	1.184151906760958e+18	2019-10-15T15:59:49Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	625357795.0	1.1839772064496271e+18	0	2019-10-15 15:00:00	
+Monzo	1.1841516502247506e+18	2019-10-15T15:58:48Z	"@rhiannonfhill We're sorry about this happening, Rhiannon 😔 
+
+Could you pop over a message through the in-app chat,… https://t.co/xw5n904Y2X"	3224409977.0	-1.0	1	2019-10-15 15:00:00	
+Monzo	1.1841513911300014e+18	2019-10-15T15:57:46Z	@emilypaws If you have any questions at all, give us a shout Emily! 👂	3224409977.0	-1.0	1	2019-10-15 15:00:00	
+Monzo	1.184149660396589e+18	2019-10-15T15:50:54Z	@velobetty @2_Wheeled_Wolf It's a lot easier to live without a CC now, so many other options like Monzo, loadable pre-pay cards etc.	146928331.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841492368557752e+18	2019-10-15T15:49:13Z	Hi I’m lauren and I want a monzo	135220926.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184147542835118e+18	2019-10-15T15:42:29Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	2820538226.0	1.1841189313065042e+18	0	2019-10-15 15:00:00	
+Monzo	1.1841473204657723e+18	2019-10-15T15:41:36Z	RBS would ruin Monzo with all its structure. Monzo are innovative and community focused. So the loyalty will always… https://t.co/kxqtEGTS0K	280590214.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841471868100076e+18	2019-10-15T15:41:04Z	@thejohnoke @monzo Okay bro. I’ll do this.	47128513.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841459216527237e+18	2019-10-15T15:36:02Z	Been double charged by @monzo at Tesco for the second time in two days and third time in a few months. Sort it out please monzo 🤦🏼‍♀️🤦🏼‍♀️	1187468791.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184144404761723e+18	2019-10-15T15:30:01Z	Yoooooooooo!!! I can’t make this shit up. This lady walked towards my little brother and I, while giving him bedroo… https://t.co/z7Sb2zntmM	4353657616.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184144162305794e+18	2019-10-15T15:29:03Z	@SquibbVicious @monzo Ooo amazing thank you, I’ll have a look! Need something quick and easy to set up with no fees… https://t.co/dsD1pvRJh9	180723941.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841438265140756e+18	2019-10-15T15:27:43Z	Why did every fucker and their dog pay with a Monzo card in my drive through today? What are they	1077799992.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.1841437919781765e+18	2019-10-15T15:27:34Z	@TheHolyKau @BorkTales @monzo @freetrade @Citymapper @babylonhealth @fitbit We appreciate your continued support, Kaushik! 💫	3512215513.0	-1.0	0	2019-10-15 15:00:00	
+Monzo	1.184135474568405e+18	2019-10-15T14:54:31Z	RT @dxmss_: Monzo are on job I can’t even lie	987507338.0	1.1840582748758835e+18	0	2019-10-15 14:00:00	
+Monzo	1.1841352171765678e+18	2019-10-15T14:53:30Z	RT @dxmss_: Monzo are on job I can’t even lie	4692150470.0	1.1840582748758835e+18	0	2019-10-15 14:00:00	
+Monzo	1.184134052477059e+18	2019-10-15T14:48:52Z	@monzo hi, could you please tell me what languages your customer service supports?	1.0878338474069606e+18	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184133561412182e+18	2019-10-15T14:46:55Z	@HughLangley @monzo To hear those words again is all I've ever wanted	76758318.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841333334643098e+18	2019-10-15T14:46:01Z	RT @Kateannasutton: @MickMcAteer @MarloesNicholls @McnabGareth @romanovsun @JCtheOriginal @ChrisGorst @JMBBristol I guess most building soc…	8.092296293829386e+17	1.184126094066307e+18	0	2019-10-15 14:00:00	
+Monzo	1.184132703672664e+18	2019-10-15T14:43:31Z	@JamesRWP @monzo not even slightly similar. embarrassed yourself	21058315.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184131080884052e+18	2019-10-15T14:37:04Z	@TfLRail @TfL Hi Kevin, I wasn't asked to provide the oystercard number in your form, that's why I didn't provide i… https://t.co/G2CA6uGVHu	1.0333589877549834e+18	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184130615362445e+18	2019-10-15T14:35:13Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	1.139468516778754e+18	1.1841189313065042e+18	0	2019-10-15 14:00:00	
+Monzo	1.184128640612737e+18	2019-10-15T14:27:22Z	@monzo So I can't open a bank account with you because of that? Does seem a bit ridiculous	1.1184187527255612e+18	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184128112981885e+18	2019-10-15T14:25:16Z	RT @dxmss_: Monzo are on job I can’t even lie	94411089.0	1.1840582748758835e+18	0	2019-10-15 14:00:00	
+Monzo	1.1841277261664338e+18	2019-10-15T14:23:44Z	Anyway, this is my old bank who I will be leaving as soon as I no longer need a joint account. I am also with Monzo… https://t.co/ohasUjEGR3	777554.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184127015647109e+18	2019-10-15T14:20:55Z	@Ryan_EP @mikestanley88 @fintechleague @TideBusiness @TransferWise @StarlingBank @joe_steele_ @monzo… https://t.co/d5ENjU8PY3	2326964449.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841264200266097e+18	2019-10-15T14:18:33Z	"Bó will be launching next month.
+#banking #mobile #UK 
+#RBS sought #Monzo takeover before deciding to launch standa… https://t.co/q7CpuoTINn"	117780256.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184126094066307e+18	2019-10-15T14:17:15Z	@MickMcAteer @MarloesNicholls @McnabGareth @romanovsun @JCtheOriginal @ChrisGorst @JMBBristol I guess most building… https://t.co/KgKO0JgbTb	21555172.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841256130928845e+18	2019-10-15T14:15:20Z	@Jennifer_1988 You can find us on the 'help' page in the Monzo app. There should be a 'chat with us' option right at the bottom 🚀	3224409977.0	-1.0	1	2019-10-15 14:00:00	
+Monzo	1.1841254283966464e+18	2019-10-15T14:14:36Z	@spikeprive @monzo Thanks 😇❤️	17451918.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184124797728514e+18	2019-10-15T14:12:06Z	"I love getting paid EARLY with @monzo.
+
+#Monzo https://t.co/nYs3iO35s5"	1.006599320991359e+18	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841247320748892e+18	2019-10-15T14:11:50Z	@IBBabalola @monzo Request a physical card from your Muster Wallets dashboard sir	1384152276.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841241775796756e+18	2019-10-15T14:09:38Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	16789467.0	1.1841189313065042e+18	0	2019-10-15 14:00:00	
+Monzo	1.18412370964215e+18	2019-10-15T14:07:46Z	"@yueyue_chen1 Hey there Yueyue 👋
+
+We're really sorry to hear this! The best thing to do, so we can look at this for… https://t.co/z5VEOsxaj3"	9.964210413491896e+17	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.184122781623034e+18	2019-10-15T14:04:05Z	"Nice to see Google announcing the @monzo pixel...
+
+#madebygoogle https://t.co/6Yw8YIv0Us"	17451918.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841221936403374e+18	2019-10-15T14:01:45Z	Monzo with the W for that get paid a day early feature 🤑	3663091.0	-1.0	0	2019-10-15 14:00:00	
+Monzo	1.1841215765491794e+18	2019-10-15T13:59:18Z	@MX5Marc We think it will be the best thing you've done, Marc! Welcome aboard #FullMonzo 🚀	3224409977.0	-1.0	1	2019-10-15 13:00:00	
+Monzo	1.184121538397782e+18	2019-10-15T13:59:09Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	9.984382645152522e+17	1.1841189313065042e+18	0	2019-10-15 13:00:00	
+Monzo	1.184121510266585e+18	2019-10-15T13:59:02Z	@monzo Saw the points about accessibility in your Android app release notes, good work! Doesn't affect me personall… https://t.co/Lx8VFIj1rP	29516060.0	-1.0	0	2019-10-15 13:00:00	
+Monzo	1.1841213403805696e+18	2019-10-15T13:58:22Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	2711212681.0	1.1841189313065042e+18	0	2019-10-15 13:00:00	
+Monzo	1.1841210545723023e+18	2019-10-15T13:57:13Z	@BrettKing @Telegraph @RBS @monzo and it is just a begin.... money actually is a social thing that has only one dri… https://t.co/CgTxo0oZhA	1525846987.0	-1.0	0	2019-10-15 13:00:00	
+Monzo	1.184113552778584e+18	2019-10-15T13:27:25Z	@monzo hey there! I keep seeing things about the new app but for some reason I don’t have the new UI. Running version 3.3.0. Cheers ✌🏻	16326793.0	-1.0	0	2019-10-15 13:00:00	
+Monzo	1.1841095155762094e+18	2019-10-15T13:11:22Z	@Craznor @monzo @procopywriters You, or your team, @hashbridge?	1.0420173054404732e+18	-1.0	0	2019-10-15 13:00:00	
+Monzo	1.1841087061470454e+18	2019-10-15T13:08:09Z	A long-rumoured takeover approach for Monzo came from state-owned bank RBS back in 2017, @telebusiness reveals. The… https://t.co/3SkuxTfuVf	304076077.0	-1.0	0	2019-10-15 13:00:00	
+Monzo	1.1841047301733458e+18	2019-10-15T12:52:21Z	@DeenDevelopers Thanks for the feedback! 🚀	3224409977.0	-1.0	1	2019-10-15 12:00:00	
+Monzo	1.184104419039662e+18	2019-10-15T12:51:07Z	@monzo @pauldambra Salary sorter, I could add to pots, but would be good to see on that screen how much committed s… https://t.co/9c26Va7Ve8	26211426.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1841038627197624e+18	2019-10-15T12:48:55Z	RT @ibzo: this is how every monzo transaction will display after brexit https://t.co/Sy7oWZqzXs	192520378.0	1.1826127490812928e+18	0	2019-10-15 12:00:00	
+Monzo	1.1841035779099566e+18	2019-10-15T12:47:47Z	@monzo can we not use our monzo cards to pay at the pump at petrol stations anymore?? Twice my cards just been decl… https://t.co/AZ5mF19B9a	1.101237331649065e+18	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1841012714873692e+18	2019-10-15T12:38:37Z	@RBS Attempted to Purchase @monzo; @FaradayFuture Founder Files for Bankruptcy; @harrys expands product offering https://t.co/shDuzL54eI	1.0710392384965468e+18	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1841011841912586e+18	2019-10-15T12:38:16Z	"@TimWorth1 Hey Tim 👋
+
+Sorry for the trouble!
+
+Would you mind confirming your email address via DM please? We can ta… https://t.co/K9pZy2uoDv"	3224409977.0	-1.0	1	2019-10-15 12:00:00	
+Monzo	1.184101125311611e+18	2019-10-15T12:38:02Z	"Plenty of ways to spoil me for my birthday!!!🎉
+
+Onlyfans tips 💰
+Bank transfer 💰 
+Delivery code 💰
+Cash app 💰 
+Monzo… https://t.co/thrupFnlcX"	9.20687098163794e+17	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1841005386165494e+18	2019-10-15T12:35:42Z	@northernluke I'm looking forward to a time when I don't feel sick to my stomach every day worrying about paying my… https://t.co/4bB8mbxBvf	9.498093721415844e+17	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.18409991316199e+18	2019-10-15T12:33:13Z	@PBinfoh @mikestanley88 @fintechleague @TideBusiness @TransferWise @StarlingBank @joe_steele_ @monzo… https://t.co/HsBsQDTtEY	215955472.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840996046960435e+18	2019-10-15T12:31:59Z	@abhishek_tri Why would anyone use HSBC when you have @monzo?	68672200.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840990951175168e+18	2019-10-15T12:29:58Z	@monzo It’s been passed on to them. I’m just really disappointed as I’ve had such good experience with Monzo so far .	832133268.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.184099084635988e+18	2019-10-15T12:29:55Z	@Craznor @procopywriters @words_person We're happy you like it, Matt! 💕	3224409977.0	-1.0	1	2019-10-15 12:00:00	
+Monzo	1.1840987189933425e+18	2019-10-15T12:28:28Z	"@RebeccaLSwift Hi Rebecca - We're so sorry to hear you're having trouble with this 😔
+
+Please can you send us a DM w… https://t.co/WnddTzQYwW"	3224409977.0	-1.0	1	2019-10-15 12:00:00	
+Monzo	1.1840987028830208e+18	2019-10-15T12:28:24Z	@iamhepto @monzo Apparently nothing...	40069321.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840983362966364e+18	2019-10-15T12:26:57Z	@leemallon @monzo Ok, then what am *I* missing?	93817341.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840974949192008e+18	2019-10-15T12:23:36Z	@monzo can we get low balance alerts? I’ve seen a few people request this feature since 2017	98378505.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840973848019804e+18	2019-10-15T12:23:10Z	After months and months I have finally gone full ⁦@monzo⁩ 👏🏻👏🏻 https://t.co/ADQ5uh2gIT	33569181.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.184096746651226e+18	2019-10-15T12:20:38Z	"Bank connections
+- PSD2, don't even get us started, more details on this soon.
+- TransferWise now available. 
+- If… https://t.co/2SLUgwrNuz"	70349273.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.184095273271923e+18	2019-10-15T12:14:47Z	RT @dxmss_: Monzo are on job I can’t even lie	396281370.0	1.1840582748758835e+18	0	2019-10-15 12:00:00	
+Monzo	1.184093702337286e+18	2019-10-15T12:08:32Z	.@monzo I’ve got nowhere via chat at all. Just being told I can’t access any of my money which leaves me totally stuck.	832133268.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840935228126904e+18	2019-10-15T12:07:49Z	.@monzo advising me to transfer my money to someone else! Such bad practice to tell a customer to compromise security like that!	832133268.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840932915513836e+18	2019-10-15T12:06:54Z	.@monzo im so disappointed with how I’ve been left with no source of money after I had my debit card stolen. Staff been very unhelpful ...	832133268.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840921239535534e+18	2019-10-15T12:02:16Z	@monzo, @RevolutApp &amp; @StarlingBank. Just a few examples of banks who've ditched traditional models in favour of an… https://t.co/Cm261Jiac9	886377691.0	-1.0	0	2019-10-15 12:00:00	
+Monzo	1.1840916298352476e+18	2019-10-15T12:00:18Z	RT @ibzo: this is how every monzo transaction will display after brexit https://t.co/Sy7oWZqzXs	21678286.0	1.1826127490812928e+18	0	2019-10-15 12:00:00	
+Monzo	1.184091329388798e+18	2019-10-15T11:59:06Z	Monzo is too loud, everyday “ you’ve spent x amount”. Leave me alone tf	8.170643968915743e+17	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840910861988495e+18	2019-10-15T11:58:08Z	@mikestanley88 @fintechleague @TideBusiness @TransferWise @StarlingBank @joe_steele_ @monzo @MastercardUKbiz… https://t.co/6DElNuFmlN	2326964449.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840898379698545e+18	2019-10-15T11:53:11Z	RT @ibzo: this is how every monzo transaction will display after brexit https://t.co/Sy7oWZqzXs	27407592.0	1.1826127490812928e+18	0	2019-10-15 11:00:00	
+Monzo	1.1840883619942482e+18	2019-10-15T11:47:19Z	"RT @bitchrepIies: I'm
+
+⚪️ Single
+
+⚪️ Taken
+
+⭕️ Kinda weird, not gonna lie"	4353657616.0	1.183830751776858e+18	0	2019-10-15 11:00:00	
+Monzo	1.1840878819855278e+18	2019-10-15T11:45:25Z	@kemik @t_blom Thanks for sharing Sean. We appreciate that cash deposit limits can be a pain, so hopefully this is… https://t.co/BKi2DqEAUc	3224409977.0	-1.0	1	2019-10-15 11:00:00	
+Monzo	1.1840878020797768e+18	2019-10-15T11:45:05Z	@leemallon @monzo It’s barely different! What are you missing?	93817341.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184086775481979e+18	2019-10-15T11:41:01Z	"Checkout Monzo on WorksHub
+
+We’re building a new kind of bank A bank that lives on your smartphone and built for th… https://t.co/G9TUNoTmdV"	587262985.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184086775318356e+18	2019-10-15T11:41:01Z	"Checkout Monzo on WorksHub
+
+We’re building a new kind of bank A bank that lives on your smartphone and built for th… https://t.co/BIEwsOlBW1"	1345043875.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840866188288696e+18	2019-10-15T11:40:23Z	"@mcnally_liam We're sorry this has been disappointing 😔
+
+Do you mind sending us a DM with your email address so we… https://t.co/WsNVacVO80"	3224409977.0	-1.0	1	2019-10-15 11:00:00	
+Monzo	1.1840864564003185e+18	2019-10-15T11:39:45Z	Gymshark and Monzo the two companies I would quit to work for regardless of wherever I am	1.0786459353186756e+18	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840863377180795e+18	2019-10-15T11:39:16Z	RBS considered a takeover of Monzo in 2017, reports claim https://t.co/63KwM1QAAj https://t.co/VO0d6OnKpo	472705227.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840849723171676e+18	2019-10-15T11:33:51Z	@brunoborges @RBC @monzo the same...in the same minute! https://t.co/OKD0mDnGYm	382534598.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840847725339976e+18	2019-10-15T11:33:03Z	There is a wrong payment in my bank account @monzo	8.910358736676823e+17	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184084336246743e+18	2019-10-15T11:31:19Z	RBS considered a takeover of Monzo in 2017, reports claim https://t.co/u8NnaAIpDO	3438993621.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840838919523123e+18	2019-10-15T11:29:33Z	RBS considered a takeover of Monzo in 2017, reports claim https://t.co/9YirVPmx8r https://t.co/0UIN8S9MlO	7.62963553175339e+17	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184083219089711e+18	2019-10-15T11:26:53Z	@kamotlou_monzo Phuma satani! Holy blood!	612409970.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184083153868206e+18	2019-10-15T11:26:37Z	RBS made informal approach for Monzo - but decided it would be cheaper to build its own digital-only bank named Bó… https://t.co/uJmc3rWSCH	21295652.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840827174970245e+18	2019-10-15T11:24:53Z	RBS considered a takeover of Monzo in 2017, reports claim https://t.co/MyHUmIMmLY https://t.co/gDMIyji5yE	1.183407903899816e+18	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840817077267538e+18	2019-10-15T11:20:52Z	Wait, do people get their wages paid into revolut and monzo??? Why???????	229641101.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840806040166318e+18	2019-10-15T11:16:29Z	@monzo any plans to allow adding receipts in pdf format? Would be very useful for expenses thay are sent as invoices!	151137916.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840804372930068e+18	2019-10-15T11:15:50Z	@t_blom @monzo £300 limit on cash deposits is a bit silly. E.g if you sell an asset such as a car then you need to… https://t.co/8jYxNLs7Sy	18024187.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1840801547060224e+18	2019-10-15T11:14:42Z	@rl_chris_higham @SarahKocianski @Forbes the authentication for applepay is at point of payment (not screen unlock)… https://t.co/FFUvK1g828	36332555.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.184078031037649e+18	2019-10-15T11:06:16Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	76403389.0	1.1839772064496271e+18	0	2019-10-15 11:00:00	
+Monzo	1.1840774617279283e+18	2019-10-15T11:04:00Z	RT @monzousa: We'll be in #Vegas and #SanFrancisco this week handing out our hot coral #MonzoBeta cards😍Info in your inbox - RSVP to secure…	2411706840.0	1.1838308810283295e+18	0	2019-10-15 11:00:00	
+Monzo	1.1840772865444209e+18	2019-10-15T11:03:18Z	"@mcnally_liam Hi Liam - Sorry to hear you're having trouble with this 😔
+
+It sounds like this could be a bug. Is Fac… https://t.co/RJ0SJ0EJjL"	3224409977.0	-1.0	1	2019-10-15 11:00:00	
+Monzo	1.1840766216843264e+18	2019-10-15T11:00:40Z	Have decided to go full @monzo This could either be the best thing I've done, or....	285686282.0	-1.0	0	2019-10-15 11:00:00	
+Monzo	1.1841838477574513e+18	2019-10-15T18:06:45Z	"@msrsan @techstars @t_blom @monzo What lucky teams you have!
+(In more ways than 1)"	2445694034.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841833477964636e+18	2019-10-15T18:04:45Z	100% can say it is a huge part thanks to the tool and Monzo helping me get things back in order!	6329202.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184182915896435e+18	2019-10-15T18:03:02Z	.@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for… https://t.co/5H6jvaKCCd	6329202.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841828500499743e+18	2019-10-15T18:02:47Z	"RT @OfficialZakveli: 1. Get a @monzo card
+2. Open up two pots
+3. Pot one- £100 &amp; Pot two £250
+4.Add that to your pot every month and lock y…"	309126595.0	1.1805029840123085e+18	0	2019-10-15 18:00:00	
+Monzo	1.184182603986985e+18	2019-10-15T18:01:48Z	@t__gardner Glad to have you TG 🙌	3224409977.0	-1.0	1	2019-10-15 18:00:00	
+Monzo	1.1841825619096822e+18	2019-10-15T18:01:38Z	RT @t__gardner: Finally joined the @monzo movement and it’s bloody brilliant 👏🏻	7.836436783844639e+17	1.184181530555568e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841971204689306e+18	2019-10-15T18:59:29Z	RT @dxmss_: Monzo are on job I can’t even lie	1164369500.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.184196771330904e+18	2019-10-15T18:58:06Z	RT @TechNation: Our prestigious mid-stage programme #Upscale is designed to help the UK’s most promising tech companies accelerate their gr…	17960949.0	1.1840329041014047e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841965358542725e+18	2019-10-15T18:57:10Z	RT @DeenDevelopers: I love how transparent @monzo are, really interesting read on how Monzo handles secrets and the tech that they use to d…	1.0597712170146488e+18	1.184058605953323e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841956848341402e+18	2019-10-15T18:53:47Z	@StarlingBank @BritishBakeOff @AnneBoden Monzo gave me an immediate overdraft...you didn't...	7.927085022843411e+17	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184195464402559e+18	2019-10-15T18:52:54Z	@keywordkelly Digital banking apps like @monzo and @RevolutApp are brilliant for this. Free to sign up to and they… https://t.co/IPDACDWR69	1.173676625835307e+18	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841949671929528e+18	2019-10-15T18:50:56Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Amazing - so so happy for you! 🙌🏻🙌🏻🙌🏻	247809084.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841945672031803e+18	2019-10-15T18:49:20Z	RT @dxmss_: Monzo are on job I can’t even lie	1379325638.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.184193505645736e+18	2019-10-15T18:45:07Z	So my friend sent his Monzo card to my house and since it’s not in my name my ma thought I was doing something book… https://t.co/RT8gtYsko8	1.0059503959261756e+18	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184193443784024e+18	2019-10-15T18:44:52Z	Hi pals. Anyone use @monzo? I've heard excellent things about them and thinking of switching from @firstdirect who… https://t.co/HoyA2GmYEP	172660443.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841930331448115e+18	2019-10-15T18:43:15Z	RT @dxmss_: Monzo are on job I can’t even lie	174085774.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.184192455387824e+18	2019-10-15T18:40:57Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Huge huge congrats fella	152258054.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841921149404365e+18	2019-10-15T18:39:36Z	@justin_31v8 @TSB @HSBC_UK We love @monzo moved everything over and haven’t looked back	194187261.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184191588400013e+18	2019-10-15T18:37:30Z	"Seriously @RoyalMailHelp... Trying to pay with @monzo - ""Sorry, we don't accept that card"". ""Why not, it is a debit… https://t.co/VlpPzo3N5Q"	17896047.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841911175558513e+18	2019-10-15T18:35:38Z	Anyone else notice that Monzo's REALLY damn slow these days????	87258631.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184189959990841e+18	2019-10-15T18:31:02Z	RT @dxmss_: Monzo are on job I can’t even lie	712255575.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841883575192617e+18	2019-10-15T18:24:40Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Well done Danny, you’ve put the hard work in to get to where you are now	9.163406526271898e+17	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841881412064092e+18	2019-10-15T18:23:48Z	Forcing my mum to get monzo so I can send requests when mi bruk	241522547.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184187428820734e+18	2019-10-15T18:20:58Z	RT @dxmss_: Monzo are on job I can’t even lie	284774486.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841868293498388e+18	2019-10-15T18:18:35Z	"Lovely lil reimbursement opportunity there, this sexy bitch is going raving. 🥳
+
+ PayPal - ayesh1712@aol.com
+Cashapp… https://t.co/G5qQAqOOPq"	1.1015004338797076e+18	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841862698337976e+18	2019-10-15T18:16:22Z	RT @dxmss_: Monzo are on job I can’t even lie	173575012.0	1.1840582748758835e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841859287865672e+18	2019-10-15T18:15:01Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	2298491082.0	1.1841561831265976e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841856794393723e+18	2019-10-15T18:14:01Z	From Discover on Google https://t.co/RauRi5rhds	14446574.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841849659086193e+18	2019-10-15T18:11:11Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Brilliant Danny! I’m so impressed with your determinati… https://t.co/saQLxqF46q	351829205.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841848946515558e+18	2019-10-15T18:10:54Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	2719286165.0	1.1841561831265976e+18	0	2019-10-15 18:00:00	
+Monzo	1.1841844246713958e+18	2019-10-15T18:09:02Z	Monzo: How The Bank Of The Future Uses AI #Innovation #Tech #Fintech via https://t.co/BEg5REQuzj https://t.co/5mzVtVfFkS	1.0186790506158776e+18	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841842161935688e+18	2019-10-15T18:08:12Z	@monzo Awesome, cheers! 😁	151137916.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.1841840461774395e+18	2019-10-15T18:07:32Z	@billhulley @2_Wheeled_Wolf Yeah, Monzo is a game-changer.	7511002.0	-1.0	0	2019-10-15 18:00:00	
+Monzo	1.184181530555568e+18	2019-10-15T17:57:32Z	Finally joined the @monzo movement and it’s bloody brilliant 👏🏻	292858153.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.184181197708112e+18	2019-10-15T17:56:13Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	7.708811986336563e+17	1.1841561831265976e+18	0	2019-10-15 17:00:00	
+Monzo	1.184181057773625e+18	2019-10-15T17:55:39Z	"RT @JamesRWP: Like the colour of @monzo cards? You'll likely enjoy the new ""Oh So Orange"" colour for the Pixel 4 https://t.co/t2dV88dtO0"	3030192429.0	1.1841313031569654e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841806347906294e+18	2019-10-15T17:53:59Z	"RT @OfficialZakveli: 1. Get a @monzo card
+2. Open up two pots
+3. Pot one- £100 &amp; Pot two £250
+4.Add that to your pot every month and lock y…"	3063475679.0	1.1805029840123085e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841799643017626e+18	2019-10-15T17:51:19Z	"RT @OfficialZakveli: 1. Get a @monzo card
+2. Open up two pots
+3. Pot one- £100 &amp; Pot two £250
+4.Add that to your pot every month and lock y…"	1857581443.0	1.1805029840123085e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841798710456402e+18	2019-10-15T17:50:56Z	"RT @perryhughes11: One last surprise from my best-man @shiftyfoxy...
+
+...A wedding day card from the team at @monzo!!! This is absolutely c…"	458231629.0	1.1841650089362432e+18	0	2019-10-15 17:00:00	
+Monzo	1.184179721413763e+18	2019-10-15T17:50:21Z	"RT @perryhughes11: One last surprise from my best-man @shiftyfoxy...
+
+...A wedding day card from the team at @monzo!!! This is absolutely c…"	112702184.0	1.1841650089362432e+18	0	2019-10-15 17:00:00	
+Monzo	1.184179373768921e+18	2019-10-15T17:48:58Z	"RT @JamesRWP: Like the colour of @monzo cards? You'll likely enjoy the new ""Oh So Orange"" colour for the Pixel 4 https://t.co/t2dV88dtO0"	60264283.0	1.1841313031569654e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841791819927634e+18	2019-10-15T17:48:12Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	226558256.0	1.1841561831265976e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841786309870756e+18	2019-10-15T17:46:01Z	@mark_454 This sounds like a fab idea! We love it when our customers share feature requests, it gets us excited for… https://t.co/fj3bUMyc2H	3224409977.0	-1.0	1	2019-10-15 17:00:00	
+Monzo	1.1841783267321856e+18	2019-10-15T17:44:48Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	303744653.0	1.1841561831265976e+18	0	2019-10-15 17:00:00	
+Monzo	1.184177854948565e+18	2019-10-15T17:42:56Z	£100m? Bargain, @AskNationwide should have bought it, they prob wasted more on those rubbish ads - https://t.co/mshAqAfh6n	31103315.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841771926972498e+18	2019-10-15T17:40:18Z	@monzo hi I’ve been sent a new card with the message ‘welcome back’ on the letter, although I haven’t requested one… https://t.co/dv120VlxWk	1.0537211461499986e+18	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841771551078932e+18	2019-10-15T17:40:09Z	@jasonmeacher Thanks Jason! Glad to have you on #TeamHotCoral 🙌	3224409977.0	-1.0	1	2019-10-15 17:00:00	
+Monzo	1.1841770651401503e+18	2019-10-15T17:39:47Z	RT @jasonmeacher: Honestly think a @monzo is the best thing I’ve had!	7.836436783844639e+17	1.1841736860032614e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841767421534986e+18	2019-10-15T17:38:30Z	"Wow, @monzo customer support has really impressed me.
+
+Had two double charged transactions. The live chat lasted 8… https://t.co/fTGGkX2v0E"	17834409.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841765481627894e+18	2019-10-15T17:37:44Z	"RT @zuurb: @up_banking @TransferWise Banks that decided to bring full transparency to their customers by integrating w/ @TransferWise:
+
+🇩🇪-…"	82370079.0	1.1840224015600026e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841763434346127e+18	2019-10-15T17:36:55Z	@robcresswell Thanks Rob 🙂	3224409977.0	-1.0	1	2019-10-15 17:00:00	
+Monzo	1.1841756067890176e+18	2019-10-15T17:34:00Z	RT @DeenDevelopers: I love how transparent @monzo are, really interesting read on how Monzo handles secrets and the tech that they use to d…	1.0016209096760074e+18	1.184058605953323e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841748412236186e+18	2019-10-15T17:30:57Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	564806527.0	1.1841189313065042e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841742893580657e+18	2019-10-15T17:28:46Z	@taxbod Basically anyone in possession of a Monzo card and carton of soya milk to take into the office then?	188822778.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841742466936914e+18	2019-10-15T17:28:35Z	"@monzo hi, I've emailed help twice with no response. I can't get a ""magic link"" to allow me back in my account desp… https://t.co/rPgnO7B1Nk"	20541320.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841742257514988e+18	2019-10-15T17:28:30Z	@morganowenprice @monzo Hi Morgan, this could actually be reserved funds, this is when the payment appears to have… https://t.co/8skHFIxwSI	271986064.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841736860032614e+18	2019-10-15T17:26:22Z	Honestly think a @monzo is the best thing I’ve had!	80327893.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.184173040881541e+18	2019-10-15T17:23:48Z	RT @TechCrunch: Challenger bank Monzo has quietly begun working on a U.S. launch https://t.co/CDj3DQqeBE by @sohear https://t.co/6aRbgWM5Qz	188945540.0	1.0811134624058204e+18	0	2019-10-15 17:00:00	
+Monzo	1.184172775105278e+18	2019-10-15T17:22:45Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	1965591632.0	1.1841189313065042e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841720520954225e+18	2019-10-15T17:19:52Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	2975134426.0	1.1841189313065042e+18	0	2019-10-15 17:00:00	
+Monzo	1.184170971802026e+18	2019-10-15T17:15:35Z	Almost a final night before the end of the @techstars London 2019 program with @t_blom from @monzo sharing his Foun… https://t.co/vf9Df2kciy	153756231.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841699385351414e+18	2019-10-15T17:11:28Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	605434880.0	1.1839772064496271e+18	0	2019-10-15 17:00:00	
+Monzo	1.184169871308972e+18	2019-10-15T17:11:12Z	@jereeve @ermlikeyeah @StarlingBank I’ve got both and have done for nearly 2 years - starling is my preferred “main… https://t.co/cDKfc9fxXV	8.881080905910313e+17	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841697937938473e+18	2019-10-15T17:10:54Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	605434880.0	1.1841189313065042e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841696690092564e+18	2019-10-15T17:10:24Z	RT @monzo: @TaintedRVY Well, teal is a lovely colour for sure, but we're simply besotted with Hot Coral 😍Why not open accounts with both of…	534811998.0	1.1841695588836024e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841695588836024e+18	2019-10-15T17:09:58Z	@TaintedRVY Well, teal is a lovely colour for sure, but we're simply besotted with Hot Coral 😍Why not open accounts… https://t.co/9EAwVWoPkV	3224409977.0	-1.0	1	2019-10-15 17:00:00	
+Monzo	1.1841693799042744e+18	2019-10-15T17:09:15Z	@morganowenprice Thank you so much, Morgan! Glad this got fixed 🙌	3224409977.0	-1.0	1	2019-10-15 17:00:00	
+Monzo	1.184169314427048e+18	2019-10-15T17:09:00Z	RT @morganowenprice: @monzo Thank you, it’s all been sorted now. Great service from Monzo, just another reason why you’re my favourite bank…	7.836436783844639e+17	1.1841684991885558e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841688661482455e+18	2019-10-15T17:07:13Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	221392481.0	1.1839772064496271e+18	0	2019-10-15 17:00:00	
+Monzo	1.1841685710537196e+18	2019-10-15T17:06:02Z	@monzo Hi, yes exactly. The user sets a alert limit and if the card/pot reaches or drops said limit they get an ale… https://t.co/BN5BOf3Ypq	98378505.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841684991885558e+18	2019-10-15T17:05:45Z	@monzo Thank you, it’s all been sorted now. Great service from Monzo, just another reason why you’re my favourite bank 😁	1.0359410322974228e+18	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841680523777352e+18	2019-10-15T17:03:59Z	@BrettKing @Telegraph @RBS @monzo Not surprised! My point was rather: how much trust do we really have in the old b… https://t.co/6pdteZjlgA	1525846987.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.184167648935981e+18	2019-10-15T17:02:22Z	@rationalscepti2 @BBC @bbccomedy @monzo Certainly the first I'm aware of!	7.858556066577818e+17	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.1841675548284273e+18	2019-10-15T17:02:00Z	not sure who to join 🤔 @StarlingBank or @monzo	534811998.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.184167093459194e+18	2019-10-15T17:00:10Z	@JordanBeeTheGee Not sure about Revolut but Monzo do have desktop login too, someone nicked my monzo and I found ou… https://t.co/Xpts828THT	237932312.0	-1.0	0	2019-10-15 17:00:00	
+Monzo	1.184167090871292e+18	2019-10-15T17:00:09Z	"RT @JamesRWP: Like the colour of @monzo cards? You'll likely enjoy the new ""Oh So Orange"" colour for the Pixel 4 https://t.co/t2dV88dtO0"	7.858556066577818e+17	1.1841313031569654e+18	0	2019-10-15 17:00:00	
+Monzo	1.184167034218832e+18	2019-10-15T16:59:56Z	@perryhughes11 @monzo Don't forget this little gift!!! @monzo #Monzo #greatbody #droppedlasagne https://t.co/N3MS7SiMcw	458231629.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841665222788915e+18	2019-10-15T16:57:54Z	@Idris_Original We're not offering any cash incentives at the moment; however, if you do decide to switch your sala… https://t.co/7RoKJtFXzN	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.184166391169114e+18	2019-10-15T16:57:23Z	Is Monzo any good?	402287676.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841659411622052e+18	2019-10-15T16:55:35Z	"RT @perryhughes11: One last surprise from my best-man @shiftyfoxy...
+
+...A wedding day card from the team at @monzo!!! This is absolutely c…"	7.836436783844639e+17	1.1841650089362432e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841657125977907e+18	2019-10-15T16:54:41Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	9.046646916534436e+17	1.1839772064496271e+18	0	2019-10-15 16:00:00	
+Monzo	1.184165340453974e+18	2019-10-15T16:53:12Z	@alexand53620026 We certainly are! Through our in-app chat and over the phone 😊	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.184165206303347e+18	2019-10-15T16:52:40Z	"@morganowenprice We're really sorry about the trouble you've been having with this, Morgan 😢 
+
+Can you send us a me… https://t.co/oNaeLwn0DX"	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.1841651418201252e+18	2019-10-15T16:52:25Z	@monzo No worries! Will pop you a message on there. Thanks! 😁	16326793.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841650089362432e+18	2019-10-15T16:51:53Z	"One last surprise from my best-man @shiftyfoxy...
+
+...A wedding day card from the team at @monzo!!! This is absolut… https://t.co/hn2yqxqqU6"	270836195.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.184164952329855e+18	2019-10-15T16:51:40Z	@monzo Thanks!Are you available 24/7?	1.0878338474069606e+18	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841648839123845e+18	2019-10-15T16:51:23Z	RT @dxmss_: Monzo are on job I can’t even lie	454123501.0	1.1840582748758835e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841648008693883e+18	2019-10-15T16:51:03Z	I used my @monzo card in @Tesco twice yesterday, and both times the payment didn’t go through but it still took the… https://t.co/dpSbZLxa3r	1.0359410322974228e+18	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.184164721244754e+18	2019-10-15T16:50:44Z	@scottymeuk @Square Great idea Scott, and quite relevant for us right now with our US expansion! Sounds like a very useful feature indeed 👍	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.184164096096297e+18	2019-10-15T16:48:15Z	@monzo @Square Like this, but most places don't print this on receipts annoyingly. https://t.co/LQqDkW8ATH	20077772.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841640319737774e+18	2019-10-15T16:48:00Z	"@phuxen We're sorry about that, Paul! 😔
+
+Could you pop over a message through the in-app chat, so we can have a look into this for you? 📱"	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.1841636741577157e+18	2019-10-15T16:46:35Z	@monzo A quick link to it from the notification. The format can be similar to a @Square receipt. Show 18/20/25% wit… https://t.co/Sht2OAdEdH	20077772.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.184163633443623e+18	2019-10-15T16:46:25Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	374542775.0	1.1841189313065042e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841632933023498e+18	2019-10-15T16:45:04Z	"@scottymeuk That's an interesting idea, Scott! 💡 
+
+What would this look like as a feature in the app for you? 📱"	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.184162504555012e+18	2019-10-15T16:41:56Z	RT @dxmss_: Monzo are on job I can’t even lie	579293039.0	1.1840582748758835e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841618937469092e+18	2019-10-15T16:39:30Z	"@sah0ta Hey there 👋 Do you mean for when your balance drops below a certain amount?
+
+Could you let us know what thi… https://t.co/OBDRCxIVHf"	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.1841611159258767e+18	2019-10-15T16:36:25Z	@alexand53620026 Hey John 👋 We provide customer support in English! 💬	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.184160969615917e+18	2019-10-15T16:35:50Z	@marccwr @Telegraph @RBS @monzo 1 in 20 Britons has a Monzo account. Tell me again people don't trust them...	14883821.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.184160497840595e+18	2019-10-15T16:33:57Z	RT @SweetOneXxxx: Monzo is too loud, everyday “ you’ve spent x amount”. Leave me alone tf	3317629246.0	1.184091329388798e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841604510699725e+18	2019-10-15T16:33:46Z	@ermlikeyeah I’m with Starling - seems good so far. Slick easy to use app , simple onboarding process - can’t reall… https://t.co/jyZVkI2pdU	376284225.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.184159903327363e+18	2019-10-15T16:31:36Z	"RT @zuurb: @up_banking @TransferWise Banks that decided to bring full transparency to their customers by integrating w/ @TransferWise:
+
+🇩🇪-…"	228463060.0	1.1840224015600026e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841596406130196e+18	2019-10-15T16:30:33Z	@TimWorth1 Thanks so much for following up on this with us, we're really glad to hear that 💪	3224409977.0	-1.0	1	2019-10-15 16:00:00	
+Monzo	1.1841589522689352e+18	2019-10-15T16:27:49Z	RT @Lucymburton: Revealed: RBS sought Monzo takeover before deciding to launch its own rival  https://t.co/1p4f6tVEBK via @telebusiness @Ja…	199812531.0	1.184037635653808e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841578944194068e+18	2019-10-15T16:23:37Z	thanks monzo https://t.co/zcLW8g5x5d	9.00830148538368e+17	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841566150518252e+18	2019-10-15T16:18:32Z	RT @daralanda: RBS sought Monzo takeover before deciding to launch standalone rival  https://t.co/siXkIqwmwi @telebusiness #fintech #Digita…	1.0525985852404982e+18	1.1841564255237284e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841564255237284e+18	2019-10-15T16:17:47Z	RBS sought Monzo takeover before deciding to launch standalone rival  https://t.co/siXkIqwmwi @telebusiness #fintech #Digital #Banking	42849836.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841561831265976e+18	2019-10-15T16:16:49Z	Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	193229321.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841555276952617e+18	2019-10-15T16:14:13Z	@Keris OMFG YOU ARE IN THE MONZO CLUB🎉🎉🎉🎉🎉🎉	20762884.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841550957658317e+18	2019-10-15T16:12:30Z	RT @dxmss_: Monzo are on job I can’t even lie	3296727201.0	1.1840582748758835e+18	0	2019-10-15 16:00:00	
+Monzo	1.1841545504266568e+18	2019-10-15T16:10:20Z	Communicating via 1p transactions in @monzo is as terrible as it sounds!	338299145.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841534427276657e+18	2019-10-15T16:05:55Z	"RT @crgeary: @ikeeyah_ @ArtByKwamz Loved it. Thank you for starting it.
+
+Btw, @monzo has that round up feature built in. I've had 826 ""roun…"	864695923.0	1.1841529838289142e+18	0	2019-10-15 16:00:00	
+Monzo	1.184153430379635e+18	2019-10-15T16:05:52Z	@crgeary Thank you! I’ve not long opened a Monzo account so I didn’t know about that feature but you’ve saved a who… https://t.co/5rP2iRwgNs	864695923.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1841529838289142e+18	2019-10-15T16:04:06Z	"@ikeeyah_ @ArtByKwamz Loved it. Thank you for starting it.
+
+Btw, @monzo has that round up feature built in. I've ha… https://t.co/Hoa3KEr5Xo"	44681607.0	-1.0	0	2019-10-15 16:00:00	
+Monzo	1.1842250766039982e+18	2019-10-15T20:50:34Z	RT @dxmss_: Monzo are on job I can’t even lie	626660516.0	1.1840582748758835e+18	0	2019-10-15 20:00:00	
+Monzo	1.184225072954794e+18	2019-10-15T20:50:33Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	15768483.0	1.184182915896435e+18	0	2019-10-15 20:00:00	
+Monzo	1.184224639976915e+18	2019-10-15T20:48:50Z	So many people rate Monzo but I don’t think I could ever leave First Direct, best bank account I’ve ever had!	407062876.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.184224489686614e+18	2019-10-15T20:48:14Z	"RT @Miss_Kay666: Bed time for me little ones😴
+
+Back to work tomorrow😩
+
+Send tributes while I sleep💰
+
+I want to hear from new piggies💌
+
+Bank…"	1.170364495581143e+18	1.1842231400518615e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842243291789844e+18	2019-10-15T20:47:36Z	RT @dxmss_: Monzo are on job I can’t even lie	2251889281.0	1.1840582748758835e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842233264803226e+18	2019-10-15T20:43:37Z	"RT @Miss_Kay666: Bed time for me little ones😴
+
+Back to work tomorrow😩
+
+Send tributes while I sleep💰
+
+I want to hear from new piggies💌
+
+Bank…"	1.1585045618475213e+18	1.1842231400518615e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842232586332774e+18	2019-10-15T20:43:21Z	"RT @Miss_Kay666: Bed time for me little ones😴
+
+Back to work tomorrow😩
+
+Send tributes while I sleep💰
+
+I want to hear from new piggies💌
+
+Bank…"	1.1549912844336906e+18	1.1842231400518615e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842231400518615e+18	2019-10-15T20:42:53Z	"Bed time for me little ones😴
+
+Back to work tomorrow😩
+
+Send tributes while I sleep💰
+
+I want to hear from new piggies… https://t.co/nuILUMsO6Y"	1.1497753999053004e+18	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842230866667684e+18	2019-10-15T20:42:40Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	994716865.0	1.1841561831265976e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842230030365327e+18	2019-10-15T20:42:20Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Seriously well done!! A brilliant achievement. X	206430370.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.184222706444714e+18	2019-10-15T20:41:09Z	RT @dxmss_: Monzo are on job I can’t even lie	231423304.0	1.1840582748758835e+18	0	2019-10-15 20:00:00	
+Monzo	1.184221228158075e+18	2019-10-15T20:35:17Z	"RT @Miss_Kay666: I want to expand my #findomworld that means I’m ready to play with some new #paypigs.
+
+Approach appropriately.
+
+Bank Trans…"	1.1497753999053004e+18	1.182361634980946e+18	0	2019-10-15 20:00:00	
+Monzo	1.184221129273217e+18	2019-10-15T20:34:53Z	RT @DeenDevelopers: I love how transparent @monzo are, really interesting read on how Monzo handles secrets and the tech that they use to d…	24369716.0	1.184058605953323e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842196590310728e+18	2019-10-15T20:29:03Z	RBS sought Monzo takeover before deciding to launch standalone rival  https://t.co/lKaFIpe1b4 via @telebusiness	54038912.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842192423229112e+18	2019-10-15T20:27:23Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	379812276.0	1.1839772064496271e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842188073023283e+18	2019-10-15T20:25:40Z	"RT @SiliconCanals: 10 inspiring tech employer brands in London 🇬🇧 https://t.co/xU5wh45WHH
+
+#Tech @monzo @BBCNews @Skyscanner @McLarenF1 @Tr…"	33243672.0	1.1833971346468618e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842177716447724e+18	2019-10-15T20:21:33Z	@simonvc @t_blom @monzo Best of luck with the new venture Simon and congrats on what you have helped create in @monzo	2387213672.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842175745418445e+18	2019-10-15T20:20:46Z	@simonvc @t_blom @monzo So glad I got to see you today before you head off on your next adventure! 🙌	7.858556066577818e+17	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842174343387914e+18	2019-10-15T20:20:12Z	@monzo We have a joint account that works the same way, only combined salaries go into it - happy to hear what you… https://t.co/6uTWTDBQxj	1678832478.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.18421737789193e+18	2019-10-15T20:19:59Z	@simonvc @t_blom @monzo awe man, they are going to miss you so much. All the best for what you get up to next. Hope it's not too far away!	130266609.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842166834451292e+18	2019-10-15T20:17:13Z	@Mr_Considerate @jackseale Old wallet, also from about 2002 (weird): Credit, debit, NI, EHIC, Driver's, Monzo. I th… https://t.co/fZFcON4urO	69950319.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842155592458404e+18	2019-10-15T20:12:45Z	@t_blom @simonvc @monzo Like the chair? It’s a good chair to be fair.	18203956.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.184215325614707e+18	2019-10-15T20:11:49Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo So happy for you Danny :)	1.145768731915772e+18	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.1842152573942129e+18	2019-10-15T20:11:33Z	RT @LV_TechEvents: Barely 24 hours until @monzousa. Who else is going? https://t.co/6asxIY0cG0 #MonzoBeta	541940222.0	1.184206321937191e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842144433722696e+18	2019-10-15T20:08:19Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	1.0910088120379268e+18	1.184182915896435e+18	0	2019-10-15 20:00:00	
+Monzo	1.1842141703859937e+18	2019-10-15T20:07:14Z	".@Enterprise you and @monzo  need to talk... They're a lot more than a ""cash card"" these days so not accepting them… https://t.co/XqqOw9lufv"	25514020.0	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.184213381835821e+18	2019-10-15T20:04:06Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	8.094764346453688e+17	1.1841189313065042e+18	0	2019-10-15 20:00:00	
+Monzo	1.184226397985874e+18	2019-10-15T20:55:49Z	RT @dxmss_: Monzo are on job I can’t even lie	2358149917.0	1.1840582748758835e+18	0	2019-10-15 20:00:00	
+Monzo	1.184226208277508e+18	2019-10-15T20:55:04Z	@StarlingBank @monzo @n26 and others aren't challenger banks anymore, they're just banks and it's actually odd seei… https://t.co/wEYiwijCsw	9.069357631950888e+17	-1.0	0	2019-10-15 20:00:00	
+Monzo	1.184212265417003e+18	2019-10-15T19:59:40Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	50420707.0	1.184182915896435e+18	0	2019-10-15 19:00:00	
+Monzo	1.184211383950422e+18	2019-10-15T19:56:10Z	Is Monzo worth it? I need to stop spending my money on shite and actually save!	7.043913737604137e+17	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842112001853809e+18	2019-10-15T19:55:26Z	@t_blom so lovely to meet you at the product meet-up last week. One quick Q. Are you close to offering business acc… https://t.co/l8GGxlQXxl	16110539.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184210723494343e+18	2019-10-15T19:53:32Z	Lesetipp: RBS sought Monzo takeover before deciding to launch standalone rival  https://t.co/vk23b1KLgH, see more https://t.co/J434EaL4zp	19447047.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842097430884065e+18	2019-10-15T19:49:38Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	82370079.0	1.184182915896435e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842092346422968e+18	2019-10-15T19:47:37Z	Is it even the middle of the month if Monzo isn’t running it’s mouth? https://t.co/o32qAggTDG	81689975.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842091996490465e+18	2019-10-15T19:47:29Z	@monzousa Hey Monzo! Looks like your Thursday event has the timezone sent to BST on Eventbrite - was that supposed to be PST?	25361025.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842090556797338e+18	2019-10-15T19:46:55Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	850815835.0	1.1841189313065042e+18	0	2019-10-15 19:00:00	
+Monzo	1.184208972322087e+18	2019-10-15T19:46:35Z	@therealgriggy @Fly_Norwegian Hey Mark, of course! We'll raise it to our Merchant Acceptance team.	3224409977.0	-1.0	1	2019-10-15 19:00:00	
+Monzo	1.1842089453737288e+18	2019-10-15T19:46:28Z	@The_HeadGame @BroadStBull @tylerjbjohnston First thing I thought of 😂🤣😂	437097658.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842087142843187e+18	2019-10-15T19:45:33Z	@DannyCheetham @t_blom @natalie_ledward @monzo This is great news! Congratulations Danny!	8.246352531719822e+17	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842086154581647e+18	2019-10-15T19:45:10Z	RT @dxmss_: Monzo are on job I can’t even lie	9.606386488940216e+17	1.1840582748758835e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842083156031365e+18	2019-10-15T19:43:58Z	@ryan__johnstone @pauldambra Great ideas Ryan, thanks for the feedback 😀	3224409977.0	-1.0	1	2019-10-15 19:00:00	
+Monzo	1.1842082190712218e+18	2019-10-15T19:43:35Z	"RT @GoddessLauXx: Lovely lil reimbursement opportunity there, this sexy bitch is going raving. 🥳
+
+ PayPal - ayesh1712@aol.com
+Cashapp - £ay…"	1.1015004338797076e+18	1.1841868293498388e+18	0	2019-10-15 19:00:00	
+Monzo	1.184208189572694e+18	2019-10-15T19:43:28Z	RT @dxmss_: Monzo are on job I can’t even lie	3783314002.0	1.1840582748758835e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842075534436147e+18	2019-10-15T19:40:56Z	RT @Varcarus: @monzo NOPE I WAS RIGHT HAHA https://t.co/YXxX04NzQ3	245523038.0	1.1838577489681244e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842064009495757e+18	2019-10-15T19:36:22Z	"Pros 
+-Revolut uses the interbank exchange rate, which it says is better than the Mastercard rate used by Monzo. 
+-… https://t.co/V0DASmGrjj"	1.1780914449948058e+18	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184206321937191e+18	2019-10-15T19:36:03Z	Barely 24 hours until @monzousa. Who else is going? https://t.co/6asxIY0cG0 #MonzoBeta	7.008877172199629e+17	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842061733791416e+18	2019-10-15T19:35:27Z	RT @ESfinanciallaw: Join us for our annual #Digital FS &amp; #Fintech Conference on 3 December, focusing on unlocking the complexities of techn…	7.261473864107131e+17	1.1840211140429005e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842058184319672e+18	2019-10-15T19:34:03Z	RT @gracebeverley: guys monzo stopped referrals because someone paid to have theirs as the top google link and made two fifty grand HAHAHA	335950568.0	1.175054749344944e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842057347640033e+18	2019-10-15T19:33:43Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	25061128.0	1.1841189313065042e+18	0	2019-10-15 19:00:00	
+Monzo	1.184205379242283e+18	2019-10-15T19:32:18Z	RT @dxmss_: Monzo are on job I can’t even lie	1.0772564815217172e+18	1.1840582748758835e+18	0	2019-10-15 19:00:00	
+Monzo	1.184205318777168e+18	2019-10-15T19:32:04Z	RT @Lucymburton: Revealed: RBS sought Monzo takeover before deciding to launch its own rival  https://t.co/1p4f6tVEBK via @telebusiness @Ja…	616472602.0	1.184037635653808e+18	0	2019-10-15 19:00:00	
+Monzo	1.184204279722193e+18	2019-10-15T19:27:56Z	Hey @monzo can you reassure @Fly_Norwegian that they will get paid if we use #monzo card in flight.  Thanks	25739061.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842040216257536e+18	2019-10-15T19:26:54Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	201701726.0	1.1841189313065042e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842038303025316e+18	2019-10-15T19:26:09Z	RT @TrueSweden: Monzo with the W for that get paid a day early feature 🤑	1.1114315612185888e+18	1.1841221936403374e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842036933123686e+18	2019-10-15T19:25:36Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	24277547.0	1.184182915896435e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842033762816942e+18	2019-10-15T19:24:20Z	@ChezzerMaybury Get a Monzo you turbo nonce	25072905.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842030763848376e+18	2019-10-15T19:23:09Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	3304764845.0	1.184182915896435e+18	0	2019-10-15 19:00:00	
+Monzo	1.184202537169236e+18	2019-10-15T19:21:00Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	4069341089.0	1.184182915896435e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842021170594038e+18	2019-10-15T19:19:20Z	Hey ⁦@monzo⁩ I already get my salary paid into this account. Clicked it by mistake and was forced to switch or get… https://t.co/q5gAjZwGDx	17588112.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842018444842025e+18	2019-10-15T19:18:15Z	@YorkshireFlint amazing! congrats @DannyCheetham; massive accomplishment! 🙌 full credit to you. ppl and stories lik… https://t.co/jdJtqoa1ad	22301442.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842002156765755e+18	2019-10-15T19:11:47Z	@DannyCheetham @eileentso good to see you today. Please pass this feedback on to the @monzo team - an effective too… https://t.co/2vA94ZLnMK	372805497.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1842001332668088e+18	2019-10-15T19:11:27Z	@keywordkelly @LetsPennies @monzo DM should be in your inbox now!	2676313880.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184199701639422e+18	2019-10-15T19:09:44Z	@RevolutApp @LetsPennies @monzo My DMs are open.	7.304258535579238e+17	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1841994599174554e+18	2019-10-15T19:08:47Z	@keywordkelly @LetsPennies @monzo Sure, Kelly! Can you give us a follow so we can send you a DM so we can find out… https://t.co/ds01KjJTCj	2676313880.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184199291927253e+18	2019-10-15T19:08:07Z	@JamesLDale @monzo Money laundering, small but effective! kthxbye	342663517.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184199144832983e+18	2019-10-15T19:07:32Z	@keywordkelly @RevolutApp @monzo Oh wow 😂 dont shy away @RevolutApp	1.173676625835307e+18	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.184198830801277e+18	2019-10-15T19:06:17Z	"@torgudmestad @TfL 1/2
+
+Hi Tor,
+
+As advised earlier you have to use the correct web form which is as follows.… https://t.co/IRggYZViJ7"	2839995611.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1841987812371702e+18	2019-10-15T19:06:05Z	@RevolutApp @LetsPennies @monzo Hi @RevolutApp this is convenient, lol - I reached out to your PR team yesterday, c… https://t.co/vFakk6OOav	7.304258535579238e+17	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1841985020097083e+18	2019-10-15T19:04:58Z	"What is it with bank apps and bugs?
+
+@monzo crashed numerous times while activating on new device.
+@BarclaysUK spit… https://t.co/T0qvJ0S2OL"	1941639428.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1841981979268588e+18	2019-10-15T19:03:46Z	RT @dxmss_: Monzo are on job I can’t even lie	175373575.0	1.1840582748758835e+18	0	2019-10-15 19:00:00	
+Monzo	1.184198163575591e+18	2019-10-15T19:03:38Z	RT @dxmss_: Monzo are on job I can’t even lie	3022302651.0	1.1840582748758835e+18	0	2019-10-15 19:00:00	
+Monzo	1.1841975047341548e+18	2019-10-15T19:01:01Z	This week I’m reviewing the bank accounts from @starlingbank @n26uk @monzo and @revolutapp - which bits of these ba… https://t.co/1mvMh2Gpb5	3030192429.0	-1.0	0	2019-10-15 19:00:00	
+Monzo	1.1841972741021286e+18	2019-10-15T19:00:06Z	"RT @findomfoxxy: ✨🦊 VERIFICATION &amp; TRIBUTES 🦊✨
+
+✨ Bank (Monzo): 04-00-04 / 69974793
+✨ P*ypal: DM
+✨ Amzn: foxx91@outlook.com
+✨ DC: https://t…"	1.1449922562749644e+18	1.174211127082967e+18	0	2019-10-15 19:00:00	
+Monzo	1.1842725024382034e+18	2019-10-15T23:59:01Z	RT @dxmss_: Monzo are on job I can’t even lie	3932295263.0	1.1840582748758835e+18	0	2019-10-15 23:00:00	
+Monzo	1.1842722597180088e+18	2019-10-15T23:58:04Z	I’m trying to send money into my monzo and it keeps on bouncing? Can anyone help?	3186865468.0	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.184272046265516e+18	2019-10-15T23:57:13Z	"We see you #Vegas 👀
+
+Join us to celebrate the #MonzoBeta launch tomorrow night! https://t.co/XNCphOiHfs… https://t.co/lN8AfCYlHM"	1.1007665462328196e+18	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842712970748805e+18	2019-10-15T23:54:14Z	Need a @monzo business account stat.	957275575.0	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842680541354967e+18	2019-10-15T23:41:21Z	@BirdsOfJannah I use Monzo and Revolut on the side from my bank. Monzo's good for spending on groceries and shoppin… https://t.co/ajBu3VLFpl	9.677917797928018e+17	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842680058171146e+18	2019-10-15T23:41:09Z	@OrdioMongo what did that bum Monzo delete?	9.300474164385916e+17	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842674593203036e+18	2019-10-15T23:38:59Z	RT @dxmss_: Monzo are on job I can’t even lie	298208974.0	1.1840582748758835e+18	0	2019-10-15 23:00:00	
+Monzo	1.184264971041018e+18	2019-10-15T23:29:06Z	RT @dxmss_: Monzo are on job I can’t even lie	63785409.0	1.1840582748758835e+18	0	2019-10-15 23:00:00	
+Monzo	1.1842630791960123e+18	2019-10-15T23:21:35Z	RT @dxmss_: Monzo are on job I can’t even lie	9.619051041851844e+17	1.1840582748758835e+18	0	2019-10-15 23:00:00	
+Monzo	1.1842629435606508e+18	2019-10-15T23:21:02Z	@joelycett Monzo were useless when i got scammed 🤷🏼‍♂️	1.0214953522502574e+18	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842621742203986e+18	2019-10-15T23:17:59Z	£1 to my monzo for every clunky edit needed to make Trump articulate plz https://t.co/eSvnvLmJfD	357506461.0	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842589855635702e+18	2019-10-15T23:05:19Z	@DannyCheetham @t_blom @natalie_ledward @StuartMonzo @monzo Congrats and well done ❤️	286537631.0	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.1842577884255273e+18	2019-10-15T23:00:33Z	@Eagles do something !	437097658.0	-1.0	0	2019-10-15 23:00:00	
+Monzo	1.184256592147026e+18	2019-10-15T22:55:48Z	RT @simonvc: 👋 5 years ago I got an email from @t_blom about building a bank with an API. That bank became @monzo and it's been my absolute…	221919466.0	1.1832268811239995e+18	0	2019-10-15 22:00:00	
+Monzo	1.184254737585234e+18	2019-10-15T22:48:26Z	RT @DannyCheetham: 2018: 1. Last #gambling bet, 2. learning to use my money better &amp; block gambling using my @Monzo, 3. getting a bit more…	24277547.0	1.0797096358950092e+18	0	2019-10-15 22:00:00	
+Monzo	1.18425468554231e+18	2019-10-15T22:48:14Z	Why did drunk lauren order another Monzo on Saturday	291974583.0	-1.0	0	2019-10-15 22:00:00	
+Monzo	1.1842516781506806e+18	2019-10-15T22:36:17Z	RT @dxmss_: Monzo are on job I can’t even lie	1139092580.0	1.1840582748758835e+18	0	2019-10-15 22:00:00	
+Monzo	1.184251259840336e+18	2019-10-15T22:34:37Z	"RT @Chris_Skinner: #RBS tried to buy #Monzo for £100 million ... and failed, so launched their own digital bank 
+
+https://t.co/a2E5XIAVAk"	183358491.0	1.1839772064496271e+18	0	2019-10-15 22:00:00	
+Monzo	1.1842482443957944e+18	2019-10-15T22:22:38Z	RT @dxmss_: Monzo are on job I can’t even lie	315316464.0	1.1840582748758835e+18	0	2019-10-15 22:00:00	
+Monzo	1.1842470334750106e+18	2019-10-15T22:17:49Z	"@LeonardBurger @ermlikeyeah @monzo I'm inclined to believe so 😉
+
+I doubt the author expected Monzo fans to like thi… https://t.co/hDTRx7wunD"	2778093470.0	-1.0	0	2019-10-15 22:00:00	
+Monzo	1.18424543482445e+18	2019-10-15T22:11:28Z	RT @dxmss_: Monzo are on job I can’t even lie	268725430.0	1.1840582748758835e+18	0	2019-10-15 22:00:00	
+Monzo	1.1842447184164168e+18	2019-10-15T22:08:37Z	@Ru_sa1 Interesting... 🤔I probably won't use much abroad but Monzo might be the one then	2258963714.0	-1.0	0	2019-10-15 22:00:00	
+Monzo	1.1842438614613606e+18	2019-10-15T22:05:13Z	"@benwerd I’m sure you have a good view of existing options, but if you haven’t checked in Europe:
+- @Monzo in a gen… https://t.co/1TEdG9iJVS"	4985551.0	-1.0	0	2019-10-15 22:00:00	
+Monzo	1.184243573270745e+18	2019-10-15T22:04:04Z	RT @dxmss_: Monzo are on job I can’t even lie	324124796.0	1.1840582748758835e+18	0	2019-10-15 22:00:00	
+Monzo	1.184242557716439e+18	2019-10-15T22:00:02Z	@monzo sent me a new card now. No idea whether this will work but at least some progress has been made.	1.1791692560527892e+18	-1.0	0	2019-10-15 22:00:00	
+Monzo	1.1842424072961188e+18	2019-10-15T21:59:26Z	Okay. I’ve had Monzo one day and I’m already in love with it.	8.790063588378829e+17	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842421127259464e+18	2019-10-15T21:58:16Z	@BantsWitLants Loool you’re gonna have to monzo me the pees tho	63548241.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184241566929621e+18	2019-10-15T21:56:06Z	@monzo @MakingMonzo please, for the love of everything I hold dear, make either... The back button take you to the… https://t.co/27U5Jhj0UG	330005041.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842413171461898e+18	2019-10-15T21:55:06Z	RT @dxmss_: Monzo are on job I can’t even lie	408246305.0	1.1840582748758835e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842407209426985e+18	2019-10-15T21:52:44Z	RT @dxmss_: Monzo are on job I can’t even lie	904545973.0	1.1840582748758835e+18	0	2019-10-15 21:00:00	
+Monzo	1.184240335003771e+18	2019-10-15T21:51:12Z	RT @ibzo: this is how every monzo transaction will display after brexit https://t.co/Sy7oWZqzXs	364621366.0	1.1826127490812928e+18	0	2019-10-15 21:00:00	
+Monzo	1.184239516414042e+18	2019-10-15T21:47:57Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	318992101.0	1.1841561831265976e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842385875225723e+18	2019-10-15T21:44:16Z	RT @dxmss_: Monzo are on job I can’t even lie	7.81827916564951e+17	1.1840582748758835e+18	0	2019-10-15 21:00:00	
+Monzo	1.184238057584763e+18	2019-10-15T21:42:09Z	RT @Tanyarrmoore: Monzo is the best but why’s it gotta be so loud 🥴 https://t.co/zmV6hdrAH8	2950078877.0	1.184237897127469e+18	0	2019-10-15 21:00:00	
+Monzo	1.184237897127469e+18	2019-10-15T21:41:31Z	Monzo is the best but why’s it gotta be so loud 🥴 https://t.co/zmV6hdrAH8	284648362.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842375315519488e+18	2019-10-15T21:40:04Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	1649117923.0	1.1841561831265976e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842372031169536e+18	2019-10-15T21:38:45Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	68124765.0	1.1841561831265976e+18	0	2019-10-15 21:00:00	
+Monzo	1.184236008696619e+18	2019-10-15T21:34:01Z	“RBS sought Monzo takeover before deciding to launch standalone rival ” https://t.co/SixORx6K5x via @Chris_Skinner https://t.co/PlpATkgYXa	1211825024.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842359054664868e+18	2019-10-15T21:33:36Z	Need to stop using my Monzo to open doors.	48106583.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842356264109916e+18	2019-10-15T21:32:30Z	RT @dxmss_: Monzo are on job I can’t even lie	1.112770072626561e+18	1.1840582748758835e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842345001269535e+18	2019-10-15T21:28:01Z	I'm getting my Monzo card! Who's coming with me? @monzousa https://t.co/XIEEhsv26T	144213594.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184233731822768e+18	2019-10-15T21:24:58Z	@BirdsOfJannah I say go for Monzo but only because I have a Monzo card. I haven’t had any bad experiences so that’s… https://t.co/CbkDmZoZAM	1.102280513526657e+18	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842321024658145e+18	2019-10-15T21:18:29Z	"RT @JamesRWP: Like the colour of @monzo cards? You'll likely enjoy the new ""Oh So Orange"" colour for the Pixel 4 https://t.co/t2dV88dtO0"	4069341089.0	1.1841313031569654e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842319440763126e+18	2019-10-15T21:17:52Z	WTF is even cashapp please? isit like Monzo?	1054091539.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184231816212996e+18	2019-10-15T21:17:21Z	@AzureTrenches @BarclaysUK Hi there James, that's not ideal! Could you send us a report through the in-app chat so we can investigate?	3224409977.0	-1.0	1	2019-10-15 21:00:00	
+Monzo	1.1842313890482586e+18	2019-10-15T21:15:39Z	8/ Result was a closed account and the end of a ~15 year relationship.  Experiences like this are why banks like… https://t.co/LmohCMkPuG	126344630.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184230970481959e+18	2019-10-15T21:13:59Z	Monzo or Starling bank? What should I start off with? Anyone got any good/bad experiences with either?	2258963714.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184230493090394e+18	2019-10-15T21:12:06Z	@Lubes Hi there! If you click the clear button it'll remove the banner 😀	3224409977.0	-1.0	1	2019-10-15 21:00:00	
+Monzo	1.1842300649189376e+18	2019-10-15T21:10:24Z	RT @BrettKing: The @Telegraph revealed that the challengers in the UK are having a much more significant impact to high street banks than p…	1.071121200313643e+18	1.1841189313065042e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842299358014917e+18	2019-10-15T21:09:53Z	@t_blom @DannyCheetham @natalie_ledward @StuartMonzo @monzo Phenomenal, on both your parts in this. This is about m… https://t.co/ioqamdu6UZ	12865172.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184229002195718e+18	2019-10-15T21:06:10Z	@t_blom @DannyCheetham @natalie_ledward @StuartMonzo @monzo Proud of both of all of you and the whole team. 👍	64505943.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842288247389102e+18	2019-10-15T21:05:28Z	RT @Showkace_: Still cant believe people publicly attacked monzo for withholding their money when they were secretly doing fraud lol.	9.533950729297592e+17	1.1841561831265976e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842281687497687e+18	2019-10-15T21:02:51Z	"RT @AndrewBowen: RBS considered a takeover of Monzo in 2017, reports claim 
+
+https://t.co/w5gSz838z9 via @ThisIsMoney @George_Nixon97 
+
+#Mo…"	166503869.0	1.1842274852123935e+18	0	2019-10-15 21:00:00	
+Monzo	1.184228028999721e+18	2019-10-15T21:02:18Z	@NorthernWoolley @monzo @firstdirect Yup, I'm literally obsessed with Monzo. https://t.co/qtPkRt0eDe	159602381.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.184227932790616e+18	2019-10-15T21:01:55Z	@DannyCheetham @natalie_ledward @StuartMonzo @monzo We're proud of you ❤️	431968702.0	-1.0	0	2019-10-15 21:00:00	
+Monzo	1.1842276732304998e+18	2019-10-15T21:00:53Z	RT @DannyCheetham: 2018: 1. Last #gambling bet, 2. learning to use my money better &amp; block gambling using my @Monzo, 3. getting a bit more…	431968702.0	1.0797096358950092e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842275946082304e+18	2019-10-15T21:00:35Z	RT @DannyCheetham: .@t_blom Can I just say thank you again (&amp; to @natalie_ledward, @StuartMonzo + every1 else at @monzo involved!) for the…	431968702.0	1.184182915896435e+18	0	2019-10-15 21:00:00	
+Monzo	1.1842274852123935e+18	2019-10-15T21:00:09Z	"RBS considered a takeover of Monzo in 2017, reports claim 
+
+https://t.co/w5gSz838z9 via @ThisIsMoney… https://t.co/bakDCKbKsr"	22361144.0	-1.0	0	2019-10-15 21:00:00	
